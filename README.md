@@ -1,4 +1,4 @@
-# project-7-Market-Recommendation-Engine
+# Market-Recommendation-Engine
 
 
 ## Description
