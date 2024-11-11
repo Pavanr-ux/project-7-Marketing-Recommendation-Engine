@@ -1,4 +1,4 @@
-# wk7-Market-Recommendation-Engine
+# project-7-Market-Recommendation-Engine
 
 
 ## Description
